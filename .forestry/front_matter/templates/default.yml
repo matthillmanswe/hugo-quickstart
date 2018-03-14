@@ -18,3 +18,7 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: field_group_list
+  name: product
+  label: Product
+  description: a product
