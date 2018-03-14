@@ -22,3 +22,7 @@ fields:
   name: product
   label: Product
   description: a product
+- type: image_gallery
+  name: images
+  label: Images
+  description: insert a range of images
