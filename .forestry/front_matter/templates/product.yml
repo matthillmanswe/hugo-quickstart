@@ -1,0 +1,22 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: product_name
+  label: Product Name
+  config:
+    required: true
+- type: field_group
+  name: _est
+  label: "†est"
+  fields:
+  - type: textarea
+    name: test2
+    label: test2
+    config:
+      wysiwyg: true
+  - type: file
+    name: image_test_2
+    label: image test 2
+    config:
+      maxSize: '2'
