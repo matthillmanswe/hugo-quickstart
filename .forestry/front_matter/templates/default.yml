@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/post-2.md
 hide_body: false
 fields:
 - name: title
